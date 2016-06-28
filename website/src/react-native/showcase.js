@@ -1119,6 +1119,12 @@ var apps = [
     linkPlayStore: 'https://play.google.com/store/apps/details?id=com.cnyes.android',
     author: '鉅亨網',
   },
+  {
+    name: '부동산다이어트',
+    icon: 'https://s3.ap-northeast-2.amazonaws.com/bdsdiet-bucket/media/store-icon.png',
+    linkPlayStore: 'https://play.google.com/store/apps/details?id=com.bdsdiet_app',
+    author: '부동산다이어트'
+  },
 ];
 
 var AppList = React.createClass({
